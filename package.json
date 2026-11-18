@@ -1,0 +1,1 @@
+{"description":"Standalone DNS management panel (zero dependencies, Node.js built-ins only)","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"dns-panel-standalone","scripts":{"start":"node server.js"},"version":"1.0.0"}
